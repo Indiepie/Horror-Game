@@ -1,0 +1,4 @@
+repository "Horror Game@Denosaurus@cloud"
+  path "/"
+    br "/main"
+    co "/main"
